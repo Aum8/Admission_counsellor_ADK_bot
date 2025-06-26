@@ -1,3 +1,0 @@
-google-adk
-pandas
-openpyxl

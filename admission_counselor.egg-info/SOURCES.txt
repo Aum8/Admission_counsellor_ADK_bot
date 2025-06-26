@@ -1,6 +1,0 @@
-setup.py
-admission_counselor.egg-info/PKG-INFO
-admission_counselor.egg-info/SOURCES.txt
-admission_counselor.egg-info/dependency_links.txt
-admission_counselor.egg-info/requires.txt
-admission_counselor.egg-info/top_level.txt
