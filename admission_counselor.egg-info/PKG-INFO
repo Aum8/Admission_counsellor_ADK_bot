@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: admission_counselor
+Version: 0.1.0
+Requires-Dist: google-adk
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Dynamic: requires-dist
