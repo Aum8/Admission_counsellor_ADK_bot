@@ -25,7 +25,7 @@ A voice-enabled AI agent that answers prospective student queries about universi
    GOOGLE_CLOUD_LOCATION=asia-south1-a
    ```
 
-3. **Install requirements**:
+3. **Start the bot**:
    ```bash
    adk web
     ```
